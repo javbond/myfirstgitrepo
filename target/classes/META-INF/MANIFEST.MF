@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1478952876888
+Build-Jdk: 1.8.0_71
+Built-By: rayan1
+Bundle-ManifestVersion: 2
+Bundle-Name: web1 Maven Webapp
+Bundle-SymbolicName: com.mavenweb1.web1
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-3.0.0.201509101326
+Web-ContextPath: static-files
+Webapp-Context: static-files
